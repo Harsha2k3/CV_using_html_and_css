@@ -1,0 +1,40 @@
+img {
+    height : 180px;
+}
+
+p.abc {
+    color : yellow;
+}
+
+p.ab {
+    color : red;
+}
+
+#a {
+    color: grey;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+
+h1 {
+    color: #808080;
+}
+
+h2 {
+    color: #66BFBF;
+}
+
+p {
+   font-style: italic;
+   font-size: 17px;
+}
+
+table {
+       font-style: italic;
+       font-size: 17px;
+}
